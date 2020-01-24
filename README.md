@@ -1,16 +1,12 @@
 # flutter_user_profile_project
 
-A new Flutter application.
+This Flutter App shows how to build simple User Profile UI
 
-## Getting Started
+## The Video is on Youtube
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Here is you can view the video for this code](https://www.youtube.com/watch?v=j4ArJ2LwZBg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
